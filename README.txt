@@ -1,0 +1,1 @@
+This is my Discord bot, but sans token. No sneaky bastard's going to be using it.

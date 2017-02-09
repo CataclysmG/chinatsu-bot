@@ -3,11 +3,9 @@
 
 import discord
 from json import load as json_load
-import asyncio
+#import asyncio
 
 #-+-+-+-+- LOAD OPTIONS -+-+-+-+-#
-
-
 class FileHandler:
     options_json = 'options.json'
 
