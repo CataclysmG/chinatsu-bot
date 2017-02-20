@@ -1,6 +1,6 @@
 This is my personal Discord bot.
 
-do >help to view command list
+do >halp to view command list (it isn't >help as that interferes with Miki, another Discord bot)
 
 Added RiotAPI calls, check >help to see
 
